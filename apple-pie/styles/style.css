@@ -35,3 +35,14 @@
     margin-right:300px;
     text-align:justify;
 }
+.line1 {
+    color: black;
+    height: 10px;
+    width: 100%;
+}
+.line2 {
+    color: black;
+    height: 10px;
+    width: 100%;
+    margin-top:100px;
+}
